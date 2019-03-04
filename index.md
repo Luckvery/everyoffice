@@ -16,10 +16,8 @@ Add Every Office characters to your iMessage conversations. Add a bit of fun to 
 </div>
 
 <div style="display:flex">
-     <div style="flex:1;padding-right:5px;">
-          <img src="./appStore.png">
-     </div>
-     <div style="flex:1;padding-right:5px;">
+     <div style="flex:1;padding-center:5px;">
+          <img src="./appStore.png"> <br/>
           For any comments or question you can email the developer at <br/>
               <img src="./email.png">
      </div>
