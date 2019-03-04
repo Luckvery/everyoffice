@@ -1,4 +1,4 @@
-#Every Office iMessage Sticker
+
 
 Every Office stickers are here! 
 Add Every Office characters to your iMessage conversations. Add a bit of fun to your day. Your coworkers and friends will love seeing what you do with these stickers!
@@ -14,9 +14,17 @@ Add Every Office characters to your iMessage conversations. Add a bit of fun to 
           <img src="./IMG_1903_PROD.png">
      </div>
 </div>
+<div style="display:flex">
+     <div style="flex:1;padding-right:5px;">
+          <img src="./appStore.png">
+     </div>
+     <div style="flex:1;padding-right:5px;">
+          For any comments or question you can email the developer at
+     </div>
+     <div style="flex:1;padding-right:5px;">
+          <img src="./email.png">
+     </div>
+</div>
 
-For any comments or question you can email the developer at
-
- ![Peace and Love!!!](email.png "Logo Title Text 1")
  
- ![Peace and Love!!!](appStore.png "Logo Title Text 1")
+ 
